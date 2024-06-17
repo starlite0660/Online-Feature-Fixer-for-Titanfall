@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 中文：
 
-##步骤：
+## 步骤：
 1. 解压  `Titanfall2_Launcher.zip`。
 2. 双击 `start_game_with_env.bat`批处理文件打开窗口。
 3. 在窗口打开时，手动启动 Titanfall 2。（游玩 Titanfall 2时，请保持本程序窗口页面打开）
@@ -24,7 +24,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 ENGLISH:
 
-##Steps:
+## Steps:
 1. Extract `Titanfall2_Launcher.zip`.
 2. Double-click the `start_game_with_env.bat` batch file to open the window.
 3. While the window is open, manually start Titanfall 2. (Keep the program window open while playing Titanfall 2)
